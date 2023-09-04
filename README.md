@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 🌱 I’m currently learning **Web Development** and **Python**<br>👯 I’m looking to collaborate with geeky minds<br>🥅 2023 Goals: Contribute more to Open Source projects<br>
-💬 Ask me about **Python, React**<br>
+💬 Ask me about **Python, C**<br>
 ⚡ Also Known As **beadventurer**
 
 ### 🌐 **How to reach me**:
