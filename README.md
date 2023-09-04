@@ -1,13 +1,10 @@
-<h1 align="center">Hello 🌎 I'm Abhishek Ukhalkare</h1>
+<h1 align="center">Hello 🌎 I'm Abhishek Ukhalkar</h1>
 <h3 align="center">An aspiring Software Developer from India</h3>
 
 ## 💫 About Me:
 🌱 I’m currently learning **Web Devlopment** and **Python**<br>👯 I’m looking to collaborate with geeky minds<br>🥅 2023 Goals: Contribute more to Open Source projects<br>
 💬 Ask me about **Python, React**<br>
 ⚡ Also Known As **beadventurer**
-
-[![](https://visitcount.itsvg.in/api?id=rissh&icon=0&color=12)](https://visitcount.itsvg.in)
----
 
 ### 🌐 **How to reach me**:
 <p align="left">
